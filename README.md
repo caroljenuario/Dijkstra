@@ -1,1 +1,1 @@
-# Dijkstra
+Algoritmo Dijkstra, gerando uma matriz de adjacencias 30 x 30, com valores de vertices a arestas aleátorias, calculando o menor caminho de cada vertice até um ponto de origem especificado pelo usuario.
